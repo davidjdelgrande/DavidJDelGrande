@@ -3,7 +3,7 @@
 
 **AI Evaluation Specialist | Search Quality, Safety & Prompt Systems | Editorial QA for LLMs**
 
-I work at the intersection of **editorial judgment** and **AI evaluation**, focusing on how large language models behave in real-world systems. My background in journalism informs how I approach model assessment: precise language, explicit reasoning and structured rationales that engineers and quality teams can use to debug, calibrate, and improve AI outputs.
+I work at the intersection of **editorial judgment** and **AI evaluation**, focusing on how large language models behave in real-world systems. My background in journalism informs how I approach model assessment: precise language, explicit reasoning and structured rationales that engineers and quality teams can use to debug, calibrate and improve AI outputs.
 
 My work spans **AI Search quality**, **LLM safety and bias evaluation** and **prompt-driven reasoning systems**, with an emphasis on clarity, consistency and auditability.
 
