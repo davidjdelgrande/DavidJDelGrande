@@ -3,9 +3,9 @@
 
 **AI Evaluation Specialist | Search Quality, Safety & Prompt Systems | Editorial QA for LLMs**
 
-I work at the intersection of **editorial judgment** and **AI evaluation**, focusing on how large language models behave in real-world systems. My background in journalism informs how I approach model assessment: precise language, explicit reasoning, and structured rationales that engineers and quality teams can use to debug, calibrate, and improve AI outputs.
+I work at the intersection of **editorial judgment** and **AI evaluation**, focusing on how large language models behave in real-world systems. My background in journalism informs how I approach model assessment: precise language, explicit reasoning and structured rationales that engineers and quality teams can use to debug, calibrate, and improve AI outputs.
 
-My work spans **AI Search quality**, **LLM safety and bias evaluation**, and **prompt-driven reasoning systems**, with an emphasis on clarity, consistency, and auditability.
+My work spans **AI Search quality**, **LLM safety and bias evaluation** and **prompt-driven reasoning systems**, with an emphasis on clarity, consistency and auditability.
 
 ---
 
@@ -14,7 +14,7 @@ My work spans **AI Search quality**, **LLM safety and bias evaluation**, and **p
 - **AI Search Quality & Relevance**
   - Entity and result descriptions
   - Ranking and relevance judgment
-  - Accuracy, completeness, and clarity in search-style outputs
+  - Accuracy, completeness and clarity in search-style outputs
 
 - **LLM Evaluation & Safety**
   - Hallucination detection
@@ -63,7 +63,7 @@ My work spans **AI Search quality**, **LLM safety and bias evaluation**, and **p
 - **Reasoning is the product.**
 - **Clarity beats cleverness.**
 - **Consistency is a feature, not a constraint.**
-- **Evaluation should be explainable, repeatable, and useful to engineers.**
+- **Evaluation should be explainable, repeatable and useful to engineers.**
 
 ---
 
